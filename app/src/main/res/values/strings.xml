@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">random-app-android</string>
+    <string name="defaultNumberText">Seu número irá aparecer aqui</string>
+    <string name="btnRandomName">Gerar número</string>
+    <string name="btnUpdateName">Atualizar número</string>
+    <string name="sMinValue">Valor mínimo (padrão 0)</string>
+    <string name="sMaxValue">Valor máximo (padrão 0)</string>
+</resources>
